@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android-Homework-master(2)333/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1565" />
+        <entry key="..\:/Android-Homework-master(2)333/app/src/main/res/drawable/edie_background.xml" value="0.159" />
+        <entry key="..\:/Android-Homework-master(2)333/app/src/main/res/drawable/home_tabs.xml" value="0.159" />
+        <entry key="..\:/Android-Homework-master(2)333/app/src/main/res/drawable/ic_launcher_background.xml" value="0.159" />
+        <entry key="..\:/Android-Homework-master(2)333/app/src/main/res/drawable/shpae_2.xml" value="0.1" />
+        <entry key="..\:/Android-Homework-master(2)333/app/src/main/res/layout/activity_about_us.xml" value="0.10739614994934144" />
+        <entry key="..\:/Android-Homework-master(2)333/app/src/main/res/layout/activity_account_management.xml" value="0.10739614994934144" />
+        <entry key="..\:/Android-Homework-master(2)333/app/src/main/res/layout/activity_advertisement.xml" value="0.10739614994934144" />
+        <entry key="..\:/Android-Homework-master(2)333/app/src/main/res/layout/activity_article_content.xml" value="0.10739614994934144" />
+        <entry key="..\:/Android-Homework-master(2)333/app/src/main/res/layout/activity_calendar.xml" value="0.165" />
+        <entry key="..\:/Android-Homework-master(2)333/app/src/main/res/layout/activity_change_password.xml" value="0.2115036231884058" />
+        <entry key="..\:/Android-Homework-master(2)333/app/src/main/res/layout/activity_edit_feed_back.xml" value="0.2115036231884058" />
+        <entry key="..\:/Android-Homework-master(2)333/app/src/main/res/layout/activity_helpand_feed_back_two.xml" value="0.2115036231884058" />
+        <entry key="..\:/Android-Homework-master(2)333/app/src/main/res/layout/activity_login.xml" value="0.2115036231884058" />
+        <entry key="..\:/Android-Homework-master(2)333/app/src/main/res/layout/activity_main.xml" value="0.10739614994934144" />
+        <entry key="..\:/Android-Homework-master(2)333/app/src/main/res/layout/activity_personal_information_details_page.xml" value="0.10739614994934144" />
+        <entry key="..\:/Android-Homework-master(2)333/app/src/main/res/layout/activity_register.xml" value="0.2115036231884058" />
+        <entry key="..\:/Android-Homework-master(2)333/app/src/main/res/layout/activity_square_lost_and_found.xml" value="0.2115036231884058" />
+        <entry key="..\:/Android-Homework-master(2)333/app/src/main/res/layout/changeusername.xml" value="0.10739614994934144" />
+        <entry key="..\:/Android-Homework-master(2)333/app/src/main/res/layout/fragment_home.xml" value="0.10739614994934144" />
+        <entry key="..\:/Android-Homework-master(2)333/app/src/main/res/layout/list_items_myissue.xml" value="0.10739614994934144" />
+        <entry key="..\:/Android-Homework-master(2)333/app/src/main/res/layout/list_items_photo.xml" value="0.10739614994934144" />
+        <entry key="..\:/Users/dddwaiting/Desktop/1.3/Android-Homework-master1.2/Android-Homework-master1.2/app/src/main/res/layout/activity_about_us.xml" value="0.1" />
+        <entry key="..\:/Users/dddwaiting/Desktop/1.3/Android-Homework-master1.2/Android-Homework-master1.2/app/src/main/res/layout/activity_account_management.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/dddwaiting/Desktop/1.3/Android-Homework-master1.2/Android-Homework-master1.2/app/src/main/res/layout/activity_advertisement.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/dddwaiting/Desktop/1.3/Android-Homework-master1.2/Android-Homework-master1.2/app/src/main/res/layout/activity_article_content.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/dddwaiting/Desktop/1.3/Android-Homework-master1.2/Android-Homework-master1.2/app/src/main/res/layout/activity_calendar.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/dddwaiting/Desktop/1.3/Android-Homework-master1.2/Android-Homework-master1.2/app/src/main/res/layout/activity_change_password.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/dddwaiting/Desktop/1.3/Android-Homework-master1.2/Android-Homework-master1.2/app/src/main/res/layout/activity_edit_article.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/dddwaiting/Desktop/1.3/Android-Homework-master1.2/Android-Homework-master1.2/app/src/main/res/layout/activity_edit_feed_back.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/dddwaiting/Desktop/1.3/Android-Homework-master1.2/Android-Homework-master1.2/app/src/main/res/layout/activity_edit_square_delicious_food.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/dddwaiting/Desktop/1.3/Android-Homework-master1.2/Android-Homework-master1.2/app/src/main/res/layout/activity_edit_square_kaoyan.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/dddwaiting/Desktop/1.3/Android-Homework-master1.2/Android-Homework-master1.2/app/src/main/res/layout/activity_edit_square_lost_and_found.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/dddwaiting/Desktop/1.3/Android-Homework-master1.2/Android-Homework-master1.2/app/src/main/res/layout/activity_edit_square_qimo.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/dddwaiting/Desktop/1.3/Android-Homework-master1.2/Android-Homework-master1.2/app/src/main/res/layout/activity_helpand_feed_back.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/dddwaiting/Desktop/1.3/Android-Homework-master1.2/Android-Homework-master1.2/app/src/main/res/layout/activity_helpand_feed_back_four.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/dddwaiting/Desktop/1.3/Android-Homework-master1.2/Android-Homework-master1.2/app/src/main/res/layout/activity_helpand_feed_back_one.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/dddwaiting/Desktop/1.3/Android-Homework-master1.2/Android-Homework-master1.2/app/src/main/res/layout/activity_helpand_feed_back_three.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/dddwaiting/Desktop/1.3/Android-Homework-master1.2/Android-Homework-master1.2/app/src/main/res/layout/activity_helpand_feed_back_two.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/dddwaiting/Desktop/1.3/Android-Homework-master1.2/Android-Homework-master1.2/app/src/main/res/layout/activity_login.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/dddwaiting/Desktop/1.3/Android-Homework-master1.2/Android-Homework-master1.2/app/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/dddwaiting/Desktop/1.3/Android-Homework-master1.2/Android-Homework-master1.2/app/src/main/res/layout/activity_my_issue.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/dddwaiting/Desktop/1.3/Android-Homework-master1.2/Android-Homework-master1.2/app/src/main/res/layout/activity_notice_comment.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/dddwaiting/Desktop/1.3/Android-Homework-master1.2/Android-Homework-master1.2/app/src/main/res/layout/activity_notice_star.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/dddwaiting/Desktop/1.3/Android-Homework-master1.2/Android-Homework-master1.2/app/src/main/res/layout/activity_notice_system.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/dddwaiting/Desktop/1.3/Android-Homework-master1.2/Android-Homework-master1.2/app/src/main/res/layout/activity_personal_information_details_page.xml" value="0.1" />
+        <entry key="..\:/Users/dddwaiting/Desktop/1.3/Android-Homework-master1.2/Android-Homework-master1.2/app/src/main/res/layout/activity_profile_message.xml" value="0.1" />
+        <entry key="..\:/Users/dddwaiting/Desktop/1.3/Android-Homework-master1.2/Android-Homework-master1.2/app/src/main/res/layout/activity_register.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/dddwaiting/Desktop/1.3/Android-Homework-master1.2/Android-Homework-master1.2/app/src/main/res/layout/activity_scenery.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/dddwaiting/Desktop/1.3/Android-Homework-master1.2/Android-Homework-master1.2/app/src/main/res/layout/activity_search.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/dddwaiting/Desktop/1.3/Android-Homework-master1.2/Android-Homework-master1.2/app/src/main/res/layout/activity_setting.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/dddwaiting/Desktop/1.3/Android-Homework-master1.2/Android-Homework-master1.2/app/src/main/res/layout/activity_square_delicious_food.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/dddwaiting/Desktop/1.3/Android-Homework-master1.2/Android-Homework-master1.2/app/src/main/res/layout/activity_square_hot_topics.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/dddwaiting/Desktop/1.3/Android-Homework-master1.2/Android-Homework-master1.2/app/src/main/res/layout/activity_square_kaoyan.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/dddwaiting/Desktop/1.3/Android-Homework-master1.2/Android-Homework-master1.2/app/src/main/res/layout/activity_square_lost_and_found.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/dddwaiting/Desktop/1.3/Android-Homework-master1.2/Android-Homework-master1.2/app/src/main/res/layout/activity_square_qimo.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/dddwaiting/Desktop/1.3/Android-Homework-master1.2/Android-Homework-master1.2/app/src/main/res/layout/activity_successuggest.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/dddwaiting/Desktop/1.3/Android-Homework-master1.2/Android-Homework-master1.2/app/src/main/res/layout/bottom_layout.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/dddwaiting/Desktop/1.3/Android-Homework-master1.2/Android-Homework-master1.2/app/src/main/res/layout/changerealname.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/dddwaiting/Desktop/1.3/Android-Homework-master1.2/Android-Homework-master1.2/app/src/main/res/layout/changestudentnumber.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/dddwaiting/Desktop/1.3/Android-Homework-master1.2/Android-Homework-master1.2/app/src/main/res/layout/changeusername.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/dddwaiting/Desktop/1.3/Android-Homework-master1.2/Android-Homework-master1.2/app/src/main/res/layout/fragment_home.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/dddwaiting/Desktop/1.3/Android-Homework-master1.2/Android-Homework-master1.2/app/src/main/res/layout/fragment_home_cet46.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/dddwaiting/Desktop/1.3/Android-Homework-master1.2/Android-Homework-master1.2/app/src/main/res/layout/fragment_home_kaoyan.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/dddwaiting/Desktop/1.3/Android-Homework-master1.2/Android-Homework-master1.2/app/src/main/res/layout/fragment_home_qinggan.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/dddwaiting/Desktop/1.3/Android-Homework-master1.2/Android-Homework-master1.2/app/src/main/res/layout/fragment_home_shenghuo.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/dddwaiting/Desktop/1.3/Android-Homework-master1.2/Android-Homework-master1.2/app/src/main/res/layout/fragment_home_tuijian.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/dddwaiting/Desktop/1.3/Android-Homework-master1.2/Android-Homework-master1.2/app/src/main/res/layout/fragment_message.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/dddwaiting/Desktop/1.3/Android-Homework-master1.2/Android-Homework-master1.2/app/src/main/res/layout/fragment_profile.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/dddwaiting/Desktop/1.3/Android-Homework-master1.2/Android-Homework-master1.2/app/src/main/res/layout/fragment_square.xml" value="0.264" />
+        <entry key="..\:/Users/dddwaiting/Desktop/1.3/Android-Homework-master1.2/Android-Homework-master1.2/app/src/main/res/layout/list_items_article.xml" value="0.1" />
+        <entry key="..\:/Users/dddwaiting/Desktop/1.3/Android-Homework-master1.2/Android-Homework-master1.2/app/src/main/res/layout/list_items_comment.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/dddwaiting/Desktop/1.3/Android-Homework-master1.2/Android-Homework-master1.2/app/src/main/res/layout/list_items_comments_notice.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/dddwaiting/Desktop/1.3/Android-Homework-master1.2/Android-Homework-master1.2/app/src/main/res/layout/list_items_myissue.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/dddwaiting/Desktop/1.3/Android-Homework-master1.2/Android-Homework-master1.2/app/src/main/res/layout/list_items_photo.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/dddwaiting/Desktop/Android-Homework-master1.1/app/src/main/res/layout/activity_notice_comment.xml" value="0.25" />
+        <entry key="..\:/Users/dddwaiting/Desktop/Android-Homework-master1.2/app/src/main/res/drawable/article_collect.xml" value="0.1" />
+        <entry key="..\:/Users/dddwaiting/Desktop/Android-Homework-master1.2/app/src/main/res/drawable/article_star.xml" value="0.1" />
+        <entry key="..\:/Users/dddwaiting/Desktop/Android-Homework-master1.2/app/src/main/res/drawable/bg_edit.xml" value="0.1" />
+        <entry key="..\:/Users/dddwaiting/Desktop/Android-Homework-master1.2/app/src/main/res/drawable/bg_edit_normal.xml" value="0.1" />
+        <entry key="..\:/Users/dddwaiting/Desktop/Android-Homework-master1.2/app/src/main/res/layout/activity_about_us.xml" value="0.176" />
+        <entry key="..\:/Users/dddwaiting/Desktop/Android-Homework-master1.2/app/src/main/res/layout/activity_account_management.xml" value="0.25" />
+        <entry key="..\:/Users/dddwaiting/Desktop/Android-Homework-master1.2/app/src/main/res/layout/activity_advertisement.xml" value="0.25" />
+        <entry key="..\:/Users/dddwaiting/Desktop/Android-Homework-master1.2/app/src/main/res/layout/activity_article_content.xml" value="0.25" />
+        <entry key="..\:/Users/dddwaiting/Desktop/Android-Homework-master1.2/app/src/main/res/layout/activity_calendar.xml" value="0.25" />
+        <entry key="..\:/Users/dddwaiting/Desktop/Android-Homework-master1.2/app/src/main/res/layout/activity_change_password.xml" value="0.25" />
+        <entry key="..\:/Users/dddwaiting/Desktop/Android-Homework-master1.2/app/src/main/res/layout/activity_edit_article.xml" value="0.25" />
+        <entry key="..\:/Users/dddwaiting/Desktop/Android-Homework-master1.2/app/src/main/res/layout/activity_edit_feed_back.xml" value="0.25" />
+        <entry key="..\:/Users/dddwaiting/Desktop/Android-Homework-master1.2/app/src/main/res/layout/activity_edit_square_kaoyan.xml" value="0.25" />
+        <entry key="..\:/Users/dddwaiting/Desktop/Android-Homework-master1.2/app/src/main/res/layout/activity_edit_square_lost_and_found.xml" value="0.25" />
+        <entry key="..\:/Users/dddwaiting/Desktop/Android-Homework-master1.2/app/src/main/res/layout/activity_edit_square_qimo.xml" value="0.25" />
+        <entry key="..\:/Users/dddwaiting/Desktop/Android-Homework-master1.2/app/src/main/res/layout/activity_helpand_feed_back.xml" value="0.25" />
+        <entry key="..\:/Users/dddwaiting/Desktop/Android-Homework-master1.2/app/src/main/res/layout/activity_helpand_feed_back_four.xml" value="0.25" />
+        <entry key="..\:/Users/dddwaiting/Desktop/Android-Homework-master1.2/app/src/main/res/layout/activity_helpand_feed_back_one.xml" value="0.25" />
+        <entry key="..\:/Users/dddwaiting/Desktop/Android-Homework-master1.2/app/src/main/res/layout/activity_helpand_feed_back_three.xml" value="0.25" />
+        <entry key="..\:/Users/dddwaiting/Desktop/Android-Homework-master1.2/app/src/main/res/layout/activity_helpand_feed_back_two.xml" value="0.2" />
+        <entry key="..\:/Users/dddwaiting/Desktop/Android-Homework-master1.2/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/dddwaiting/Desktop/Android-Homework-master1.2/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/dddwaiting/Desktop/Android-Homework-master1.2/app/src/main/res/layout/activity_my_issue.xml" value="0.25" />
+        <entry key="..\:/Users/dddwaiting/Desktop/Android-Homework-master1.2/app/src/main/res/layout/activity_notice_comment.xml" value="0.25" />
+        <entry key="..\:/Users/dddwaiting/Desktop/Android-Homework-master1.2/app/src/main/res/layout/activity_notice_star.xml" value="0.25" />
+        <entry key="..\:/Users/dddwaiting/Desktop/Android-Homework-master1.2/app/src/main/res/layout/activity_notice_system.xml" value="0.25" />
+        <entry key="..\:/Users/dddwaiting/Desktop/Android-Homework-master1.2/app/src/main/res/layout/activity_personal_information_details_page.xml" value="0.25" />
+        <entry key="..\:/Users/dddwaiting/Desktop/Android-Homework-master1.2/app/src/main/res/layout/activity_profile_message.xml" value="0.25" />
+        <entry key="..\:/Users/dddwaiting/Desktop/Android-Homework-master1.2/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/Users/dddwaiting/Desktop/Android-Homework-master1.2/app/src/main/res/layout/activity_scenery.xml" value="0.25" />
+        <entry key="..\:/Users/dddwaiting/Desktop/Android-Homework-master1.2/app/src/main/res/layout/activity_search.xml" value="0.25" />
+        <entry key="..\:/Users/dddwaiting/Desktop/Android-Homework-master1.2/app/src/main/res/layout/activity_setting.xml" value="0.25" />
+        <entry key="..\:/Users/dddwaiting/Desktop/Android-Homework-master1.2/app/src/main/res/layout/activity_square_delicious_food.xml" value="0.25" />
+        <entry key="..\:/Users/dddwaiting/Desktop/Android-Homework-master1.2/app/src/main/res/layout/activity_square_hot_topics.xml" value="0.25" />
+        <entry key="..\:/Users/dddwaiting/Desktop/Android-Homework-master1.2/app/src/main/res/layout/activity_square_kaoyan.xml" value="0.25" />
+        <entry key="..\:/Users/dddwaiting/Desktop/Android-Homework-master1.2/app/src/main/res/layout/activity_square_lost_and_found.xml" value="0.25" />
+        <entry key="..\:/Users/dddwaiting/Desktop/Android-Homework-master1.2/app/src/main/res/layout/activity_successuggest.xml" value="0.25" />
+        <entry key="..\:/Users/dddwaiting/Desktop/Android-Homework-master1.2/app/src/main/res/layout/bottom_layout.xml" value="0.25" />
+        <entry key="..\:/Users/dddwaiting/Desktop/Android-Homework-master1.2/app/src/main/res/layout/changerealname.xml" value="0.25" />
+        <entry key="..\:/Users/dddwaiting/Desktop/Android-Homework-master1.2/app/src/main/res/layout/changestudentnumber.xml" value="0.25" />
+        <entry key="..\:/Users/dddwaiting/Desktop/Android-Homework-master1.2/app/src/main/res/layout/changeusername.xml" value="0.25" />
+        <entry key="..\:/Users/dddwaiting/Desktop/Android-Homework-master1.2/app/src/main/res/layout/fragment_home_cet46.xml" value="0.25" />
+        <entry key="..\:/Users/dddwaiting/Desktop/Android-Homework-master1.2/app/src/main/res/layout/fragment_home_kaoyan.xml" value="0.25" />
+        <entry key="..\:/Users/dddwaiting/Desktop/Android-Homework-master1.2/app/src/main/res/layout/fragment_home_qinggan.xml" value="0.25" />
+        <entry key="..\:/Users/dddwaiting/Desktop/Android-Homework-master1.2/app/src/main/res/layout/fragment_home_shenghuo.xml" value="0.25" />
+        <entry key="..\:/Users/dddwaiting/Desktop/Android-Homework-master1.2/app/src/main/res/layout/fragment_home_tuijian.xml" value="0.25" />
+        <entry key="..\:/Users/dddwaiting/Desktop/Android-Homework-master1.2/app/src/main/res/layout/fragment_message.xml" value="0.25" />
+        <entry key="..\:/Users/dddwaiting/Desktop/Android-Homework-master1.2/app/src/main/res/layout/fragment_profile.xml" value="0.25" />
+        <entry key="..\:/Users/dddwaiting/Desktop/Android-Homework-master1.2/app/src/main/res/layout/fragment_square.xml" value="0.25" />
+        <entry key="..\:/Users/dddwaiting/Desktop/Android-Homework-master1.2/app/src/main/res/layout/list_items_article.xml" value="0.25" />
+        <entry key="..\:/Users/dddwaiting/Desktop/Android-Homework-master1.2/app/src/main/res/layout/list_items_comment.xml" value="0.25" />
+        <entry key="..\:/Users/dddwaiting/Desktop/Android-Homework-master1.2/app/src/main/res/layout/list_items_comments_notice.xml" value="0.25" />
+        <entry key="..\:/Users/dddwaiting/Desktop/Android-Homework-master1.2/app/src/main/res/layout/list_items_myissue.xml" value="0.25" />
+        <entry key="..\:/Users/dddwaiting/Desktop/Android-Homework-master1.2/app/src/main/res/layout/list_items_photo.xml" value="0.25" />
+        <entry key="..\:/Users/dddwaiting/Desktop/andr/Android-Homework-master/app/src/main/res/layout/activity_about_us.xml" value="0.22327898550724637" />
+        <entry key="..\:/Users/dddwaiting/Desktop/andr/Android-Homework-master/app/src/main/res/layout/activity_main.xml" value="0.22327898550724637" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
