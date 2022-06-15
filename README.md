@@ -5,7 +5,7 @@ Android大作业
 ## 项目初步完成时间 2022-6-12
 ## 开发工具：Android Studio
 ## 数据库：MySQL
-## 云服务器；百度云服务器
+##云服务器；百度云服务器（请注意此服务器将在2022/8/15之后停止服务）
 ## Android-app-MeihuTETL
 ## Android Homework--Applications such as Baidu tieba can send text messages, comments and likes
 ## As a simple Android program, don't make too many demands on it
