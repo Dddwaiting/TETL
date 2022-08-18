@@ -11,3 +11,9 @@ Android大作业
 ## As a simple Android program, don't make too many demands on it
 ## This program uses JDBC to connect to the database，call the GifView and MySQL-connector-java-5.1.30-bin
 ## Baidu cloud is adopted on the server side and use the MySQL5.7.37 version
+
+
+##2022-8-18 15：40
+## 如有android studio 连接上实体手机不能安装问题，请在gradle.properties中加入 android.injected.testOnly=false 即可
+
+
